@@ -1,0 +1,30 @@
+.blocks{
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    margin-top: 100px;
+}
+.block1,.block2,.block3,.block4,.block5,.block6{
+    background: white;
+    width: 600px;
+    height: 130px;
+    margin: 20px 20px;
+    display: flex;
+}
+body{
+    background: #15D7E5FF;
+}
+h2{
+    color: orange;
+}
+img{
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+    padding-top: 35px;
+    padding-left: 10px;
+}
+p{
+    padding-top: 0;
+    color: #B0B0B0FF;
+}
