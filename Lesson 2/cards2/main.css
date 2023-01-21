@@ -1,0 +1,33 @@
+h1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.blocks{
+    display: flex;
+    justify-content: space-evenly;
+}
+.block1,.block2,.block3,.block4{
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    box-shadow: 3px 3px 5px #CECECEFF;
+}
+h2{
+    color: orange;
+}
+p{
+    color: #DCDCDCFF;
+}
+button{
+    margin-top: 60px;
+    width: 130px;
+    height: 35px;
+    background: #7FE7D9FF;
+    border-width: 0;
+    color: white;
+}
+img{
+    width: 30px;
+    padding-top: 15px;
+}
