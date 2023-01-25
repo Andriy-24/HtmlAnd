@@ -25,10 +25,11 @@ body{
     background: #D2D2D2FF;
     right: 100px;
 }
-img{
-    width: 30px;
-    height: 35px;
+.fa-bars,.fa-magnifying-glass{
+    /*width: 30px;*/
+    /*height: 35px;*/
     margin-right: 10px;
+    font-size: 25px;
 }
 .blocks{
     display: flex;
